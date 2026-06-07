@@ -48,3 +48,17 @@
 // console.log(c)
 
 //data type
+
+//primitive data type
+//number,string,boolean,undefined,null,bigint,symbol
+
+//number
+
+let a=3;
+let b= 5.8;
+console.log(a,b);
+
+//string
+
+//non primitive data type
+//array,object,function 
