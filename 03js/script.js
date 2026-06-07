@@ -50,6 +50,9 @@ function createRectangle(){
     console.log('drawing rectangle');
 
   }
-  };
+  }; 
 }
-let rectangleObj1=createRectangle();
+let rectangleObj1= createRectangle();
+console.log(rectangleObj1);
+
+kya hua
