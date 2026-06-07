@@ -34,15 +34,17 @@
 //  account=123;
 // console.log(account);
 
-var a=10;
-a=20;
-console.log(a);
+// var a=10;
+// a=20;
+// console.log(a);
 
-let name="anu kumari";
-let age =20;
+// let name="anu kumari";
+// let age =20;
 
-if(true){
-    let c = 90;
-}
-age=30;
-console.log(c)
+// if(true){
+//     let c = 90;
+// }
+// age=30;
+// console.log(c)
+
+//data type
