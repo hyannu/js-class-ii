@@ -64,5 +64,7 @@ let c="Strike is coming";
 let d='Anjali';
 console.log(c,d);
 
+//boolean
+
 //non primitive data type
 //array,object,function 
