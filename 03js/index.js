@@ -58,7 +58,11 @@ let a=3;
 let b= 5.8;
 console.log(a,b);
 
+
 //string
+let c="Strike is coming";
+let d='Anjali';
+console.log(c,d);
 
 //non primitive data type
 //array,object,function 
