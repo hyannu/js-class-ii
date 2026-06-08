@@ -137,4 +137,14 @@ console.log(id2==id1);
 // console.log(arr);
 
 //object data type
+// Archana 12312 18 gen
+
+let use={
+    name:"Archana rao",
+    account:12312,
+    age:23,
+    category:'gen'
+}
+
+
 
