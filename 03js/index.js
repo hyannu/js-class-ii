@@ -65,10 +65,35 @@
 // console.log(c,d);
 
 //boolean
-let login=true;
-let f=false;
-console.log(login,f);
+// let login=true;
+// let f=false;
+// console.log(login,f);
+// old trika
+// var a =10;
+// var a = 20;
 
+// if(true){
+//     var a=20;
+// }
+// function fun(){
+//     var c = 20;
+// }
+// var b = 30;
+// console.log(a);
 
+// data type
+//primitive data type
+//number,string,boolean,undefined,null,bigint,symbol
 //non primitive data type
 //array,object,function 
+
+
+
+//number
+
+let a= 2;
+let b = 3.5;
+console.log(a,b);
+// string
+
+
