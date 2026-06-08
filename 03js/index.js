@@ -153,3 +153,14 @@ function add(){
 add();
 
 
+//store function in a variable
+// let s = function add(){
+//     console.log("Hello sir evening how are you");
+// }
+// console.log(s);
+
+// function call
+let s = function add(){
+    console.log("hello sir good evening how are you");
+}
+s();
