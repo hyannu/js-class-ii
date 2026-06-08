@@ -95,5 +95,18 @@ let a= 2;
 let b = 3.5;
 console.log(a,b);
 // string
+let c = "strick ix comming";
+let d ="annu kumari";
+console.log(c,d);
+//boolean primitive data type
+let login = true;
+let f = false;
+console.log(login,f);
+
+//undefined data type
+ler User;
+console.log(user);
+//bigint data type
+
 
 
