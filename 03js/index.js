@@ -145,6 +145,11 @@ let use={
     age:23,
     category:'gen'
 }
+//function data type
 
+function add(){
+    console.log("Hello good evening");
+}
+add();
 
 
