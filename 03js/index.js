@@ -58,10 +58,17 @@
 // let b= 5.8;
 // console.log(a,b);
 
+// number ka type
+// let a = 10;
+// let b = 2.3;
+// // console.log(a,b);
+// console.log(typeof b);
+
 
 //string
 // let c="Strike is coming";
-// let d='Anjali';
+let d='Anjali';
+console.log(typeof d);
 // console.log(c,d);
 
 //boolean
