@@ -110,7 +110,19 @@ console.log(User);
 // let num =12333344455566777888n;
 // console.log(num);
 //null datatype
-let weather = null;
-console.log(weather);
+// let weather = null;
+// console.log(weather);
+
+//nul data type
+// let weather =current_weather("Dwarika")
+// 25
+// null
+// undefined
+
+
+// symbol
+
+const id1 = Symbol("id");
+console.log(id1);
 
 
