@@ -104,9 +104,13 @@ let f = false;
 console.log(login,f);
 
 //undefined data type
-ler User;
-console.log(user);
-//bigint data type
-
+let User;
+console.log(User);
+// //bigint data type
+// let num =12333344455566777888n;
+// console.log(num);
+//null datatype
+let weather = null;
+console.log(weather);
 
 
