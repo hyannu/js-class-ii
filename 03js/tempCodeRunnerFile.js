@@ -1,2 +1,2 @@
-let d='Anjali';
-console.log(typeof d);
+let f=false;
+console.log(typeof f);

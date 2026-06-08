@@ -67,13 +67,14 @@
 
 //string
 // let c="Strike is coming";
-let d='Anjali';
-console.log(typeof d);
+// let d='Anjali';
+// console.log(typeof d);
 // console.log(c,d);
 
 //boolean
 // let login=true;
 // let f=false;
+// console.log(typeof f);
 // console.log(login,f);
 // old trika
 // var a =10;
