@@ -127,3 +127,14 @@ const id2 = Symbol("id");
 console.log(id2==id1);
 
 
+// non primitive data type 
+
+// array,object,function
+
+// array
+
+// let arr =[10,20,11,"Rohit",true];
+// console.log(arr);
+
+//object data type
+
