@@ -1,2 +1,2 @@
-let f=false;
-console.log(typeof f);
+let User;
+console.log(typeof User);

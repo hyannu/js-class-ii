@@ -113,7 +113,8 @@ console.log(login,f);
 
 //undefined data type
 let User;
-console.log(User);
+console.log(typeof User);
+// console.log(User);
 // //bigint data type
 // let num =12333344455566777888n;
 // console.log(num);
@@ -172,3 +173,7 @@ let s = function add(){
     console.log("hello sir good evening how are you");
 }
 s();
+
+// print 15,16,17,18,19,20
+
+for(let i=)
