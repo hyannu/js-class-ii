@@ -29,3 +29,8 @@
     let a=34;
     console.log(a);
 }
+
+// boolean data type
+isfollow=true;
+x=null;
+console.log(isfollow,x);
