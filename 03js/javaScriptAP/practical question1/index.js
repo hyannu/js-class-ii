@@ -18,3 +18,4 @@ console.log(typeof product);
 // QUESTION NUMBER 2
 
 //    Create a const object called"prifile" to store information shown in the Picture.
+
