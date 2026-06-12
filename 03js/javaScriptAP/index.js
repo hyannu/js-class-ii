@@ -9,9 +9,19 @@
 
 // VARIABLE RULE
  
-console.log(Name_t);
+// console.log(Name_t);
 // reserved key word
 // break,else, export
 // extends,finally etc.  
 // let,const & var 2015 used js ES6 
+// const PI =3.14;
 
+// console.log(PI);
+// let a;
+// console.log(a);
+
+// block
+{
+    let a = 5;
+    console.log(a);
+}
