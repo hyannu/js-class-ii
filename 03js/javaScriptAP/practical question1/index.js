@@ -31,3 +31,10 @@ const profile={
 };
 console.log(profile);
 console.log(typeof profile);
+console.log(typeof profile["userName"]);
+console.log(typeof profile["isfollow"]);
+console.log(typeof profile["folloing"]);
+console.log(typeof profile["post"]);
+console.log(typeof profile["enterpreneur"]);
+console.log(typeof profile["bio"]);
+console.log(typeof profile["followers"]);
