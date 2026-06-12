@@ -21,16 +21,20 @@
 // console.log(a);
 
 // block
-{
-    let a = 5;
-    console.log(a);
-}
-{
-    let a=34;
-    console.log(a);
-}
+// {
+//     let a = 5;
+//     console.log(a);
+// }
+// {
+//     let a=34;
+//     console.log(a);
+// }
 
 // boolean data type
-isfollow=true;
-x=null;
-console.log(isfollow,x);
+// isfollow=true;
+// x=null;
+// console.log(isfollow,x);
+// bigint data type
+let x = BigInt("123");
+let y =Symbol("Hello!")
+console.log(x,typeof y);
