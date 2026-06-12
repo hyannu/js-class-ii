@@ -10,5 +10,8 @@
 // VARIABLE RULE
  
 console.log(Name_t);
-
+// reserved key word
+// break,else, export
+// extends,finally etc.  
+let,const & var
 
