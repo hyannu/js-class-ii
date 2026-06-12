@@ -13,5 +13,5 @@ console.log(Name_t);
 // reserved key word
 // break,else, export
 // extends,finally etc.  
-let,const & var
+// let,const & var 2015 used js ES6 
 
