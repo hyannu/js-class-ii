@@ -25,8 +25,8 @@
 
 // Assignment Operators
 // =,+=,-=,*=,%=,**=
- let a = 5;
-let b = 2;
+//  let a = 5;
+// let b = 2;
 
 // a+=4; // a = a + 4
 // console.log("a=", a);//9
@@ -48,6 +48,11 @@ let b = 2;
 // a=4; // a =  4
 // console.log("a=", a);//4
 
+//COMPARISON OPERATORS
+// [==,===,!=,!==,>,>=,<,<=]
 
-
+let a= 6;
+let b = 45;
+// console.log("5 <= 5", a<=b);
+console.log("6 >= 45", a>=b);
 
