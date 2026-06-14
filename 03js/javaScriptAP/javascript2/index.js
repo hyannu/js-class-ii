@@ -71,8 +71,30 @@
 // console.log("cond1 && cond2 = ", a < b && a === 6);
 
 //LOGICAL OR
-let a = 6;
-let b = 5;
-console.log("")
+// let a = 6;
+// let b = 5;
+// console.log("!(6<5=", !(a===6));
+
+// conditional statements
+//  vote age
+//  age=22,45,12,32,11,10
+
+// let age = 11;
+// if(age >= 18){
+//     console.log("You can vote");
+// }
+// if(age<18){
+//     console.log("You can NOT vote");
+// }
+
+let age = 19 ;
+if(age >= 18){
+    console.log("You can vote");
+}
+if(age<18){
+    console.log("You can NOT vote");
+}
+
+
 
 
