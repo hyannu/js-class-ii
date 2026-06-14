@@ -113,17 +113,18 @@
              
 // IF-ELSE STATEMENTS
 
- let time = 14;
+//  let time = 14;
 
-if (time < 12) {
-    console.log("Morning");
-}
-else if (time < 17) {
-    console.log("Afternoon");
-}
-else {
-    console.log("Evening");
-}  
+// if (time < 12) {
+//     console.log("Morning");
+// }
+// else if (time < 17) {
+//     console.log("Afternoon");
+// }
+// else {
+//     console.log("Evening");
+// }  
+
 
 
 
