@@ -48,7 +48,7 @@
 // a=4; // a =  4
 // console.log("a=", a);//4
 
-//COMPARISON OPERATORS
+// COMPARISON OPERATORS
 // [==,===,!=,!==,>,>=,<,<=]
 
 // let a= 6;
@@ -56,7 +56,7 @@
 // // console.log("5 <= 5", a<=b);
 // console.log("6 >= 45", a>=b);
 
-//LOGICAL OPERATOR
+// LOGICAL OPERATOR
 // let a=6;
 // let b=5;
 // let cond1 = a>b;//true
@@ -70,12 +70,12 @@
 // // console.log("cond1 && cond2 = ", cond1 && cond2);//ya
 // console.log("cond1 && cond2 = ", a < b && a === 6);
 
-//LOGICAL OR
+// LOGICAL OR
 // let a = 6;
 // let b = 5;
 // console.log("!(6<5=", !(a===6));
 
-// conditional statements
+// IF conditional statements
 //  vote age
 //  age=22,45,12,32,11,10
 
@@ -87,13 +87,36 @@
 //     console.log("You can NOT vote");
 // }
 
-let age = 19 ;
-if(age >= 18){
-    console.log("You can vote");
-}
-if(age<18){
-    console.log("You can NOT vote");
-}
+// let age = 19 ;
+// if(age >= 18){
+//     console.log("You can vote");
+// }
+// if(age<18){
+//     console.log("You can NOT vote");
+// }
+
+//       COLOR MODE
+// let mode = "dark";
+
+// let mode = "light";
+// let color;
+
+// if(mode ==="dark"){
+//     color = "black";
+// }
+
+// if(mode === "light"){
+//     color="white";
+// }
+// console.log(color);
+
+             
+// IF-ELSE STATEMENTS
+
+
+
+
+
 
 
 
