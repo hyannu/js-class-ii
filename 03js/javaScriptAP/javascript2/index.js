@@ -159,4 +159,22 @@
 // }
 
 
+// ternary operator
+
+// let age = 16;
+// age >= 18 ? "adult" : "not adult"; //not adult
+
+// let age = 19;
+// let result = age >= 18 ? "adult" : "not adult"; 
+// console.log(result);
+
+
+
+// let age = 15;
+// age >= 18 ? "adult" : "not adult";
+
+
+
+
+
 
