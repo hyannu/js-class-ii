@@ -13,3 +13,54 @@
 //    console.log(num,"number of not a multiple of 5");
 //     }
 
+
+
+// let score = 95;
+// let grade;
+// if(score >= 90 && score <= 100){
+//     console.log("Grade A");
+// }
+// else if(score >= 80 && score <= 89){
+//     console.log("Grade B");
+// }
+// else if(score >= 70 && score <= 79){
+//     console.log("Grade C");
+// }
+// else if(score >= 60 && score <= 69){
+//     console.log("Grade D");
+// }
+// else if(score >= 50 && score <= 59){
+//     console.log("Grade E");
+// }
+// else {
+//     console.log("Fail")
+// }
+
+// console.log("according to your scores, your grade was :", grade);
+
+
+
+
+
+let score = 95;
+let grade;
+if(score >= 90 && score <= 100){
+    Grade ="A";
+}
+else if(score >= 80 && score <= 89){
+  Grade ="B";
+}
+else if(score >= 70 && score <= 79){
+    Grade= "C";
+}
+else if(score >= 60 && score <= 69){
+    Grade = "D";
+}
+else if(score >= 50 && score <= 59){
+    Grade= "E";
+}
+else {
+   Grade ="Fail";
+}
+
+console.log("according to your scores, your grade was :", Grade);
