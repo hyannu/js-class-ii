@@ -13,8 +13,8 @@
 // }
 
 //ODD NUMBER
-for(let num = 0; num <= 50; num++){
-    if(num %2 !== 0){
-        console.log("num= ", num);
-    }
-}
+// for(let num = 0; num <= 50; num++){
+//     if(num %2 !== 0){
+//         console.log("num= ", num);
+//     }
+// }
