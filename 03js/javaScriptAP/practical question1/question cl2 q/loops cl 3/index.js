@@ -53,13 +53,13 @@ guessing the game number until the user enters correct value.*/
         // console.log(str[8]+ " " + str.length);
 
 
-let obj = {
-    item: "pen",
-    price:10,
-};
-let output =`the cost of ${obj.item} is ${obj.price} rupees`;
-// console.log("the cost of", obj.item,"is", obj.price, "rupees");
-console.log(output);
+// let obj = {
+//     item: "pen",
+//     price:10,
+// };
+// let output =`the cost of ${obj.item} is ${obj.price} rupees`;
+// // console.log("the cost of", obj.item,"is", obj.price, "rupees");
+// console.log(output);
 
 
 
@@ -70,3 +70,11 @@ console.log(output);
         // let specialString = `This is a template literal`;
         // // console.log(specialString);
         // console.log(typeof specialString);
+
+
+
+        //STRING METHOD
+        let str ="Archana Rao";
+        let newStr = str.toUpperCase();
+        console.log(str);
+        console.log(newStr);
