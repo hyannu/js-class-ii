@@ -98,3 +98,6 @@ guessing the game number until the user enters correct value.*/
             let str ="hello";
             console.log(str.slice(0,4));
 
+            //str1.concat(str2) join str2 with str1
+
+             
