@@ -24,4 +24,19 @@
 /* Create a game where you start with any random game number. Ask the user to keep  
 guessing the game number until the user enters correct value.*/
 
+// let gameNum = 25;
+// let userNum = 21;
+//  while(userNum !== gameNum){//game
+//     console.log("Wrong guess");
+//     break;
+// }
+// console.log("congatualtions,you entered the righr number");
 
+
+let gameNum = 25;
+let usernum = prompt("Guess the game number : ");
+
+while (userNum !=gameNum){
+    userNum = prompt("You entered wrong number. Guess again : ");
+}
+console.log("congratulations, you entered the right number");
