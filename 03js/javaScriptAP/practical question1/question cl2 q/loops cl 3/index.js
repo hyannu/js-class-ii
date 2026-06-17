@@ -74,7 +74,12 @@ guessing the game number until the user enters correct value.*/
 
 
         //STRING METHOD
-        let str ="Archana Rao";
-        let newStr = str.toUpperCase();
+        // let str ="Archana Rao";
+        // let newStr = str.toUpperCase();
+        // console.log(str);
+        // console.log(newStr);
+
+         let str ="Archana Rao";
+        let newStr = str.toLowerCase();
         console.log(str);
         console.log(newStr);
