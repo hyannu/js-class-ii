@@ -95,9 +95,16 @@ guessing the game number until the user enters correct value.*/
             //str.slice
 
             // let str =" 01234567";
-            let str ="hello";
-            console.log(str.slice(0,4));
+            /*let str ="hello";
+            console.log(str.slice(0,4));*/
 
             //str1.concat(str2) join str2 with str1
+               /*let str1 = "Archana";
+               let str2 = "Rao";
 
+            //    let res =str1.concat(str2);
+            //   let res =str2.concat(str1);
+            // let res = str1 + str2;
+              let res ="my name is " + str1.concat(str2);
+               console.log(res);*/
              
