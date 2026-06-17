@@ -90,4 +90,4 @@ guessing the game number until the user enters correct value.*/
               //trim methods
 
               let str ="          Archana rao js     ";
-              console.log(str.trim());
+              console.log(str.toUpperCase(),str.trim());
