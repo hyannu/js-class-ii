@@ -49,8 +49,10 @@ guessing the game number until the user enters correct value.*/
 
 
         //STRING
-        let str = "archana rao annu";
-        console.log(str[8]+ " " + str.length);
+        // let str = "archana rao annu";
+        // console.log(str[8]+ " " + str.length);
 
         //template literals
-        
+        let specialString = `This is a template literal`;
+        // console.log(specialString);
+        console.log(typeof specialString);
