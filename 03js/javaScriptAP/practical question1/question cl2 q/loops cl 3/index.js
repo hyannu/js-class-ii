@@ -33,10 +33,21 @@ guessing the game number until the user enters correct value.*/
 // console.log("congatualtions,you entered the righr number");
 
 
-let gameNum = 25;
-let usernum = prompt("Guess the game number : ");
+// let gameNum = 25;
+// let usernum = prompt("Guess the game number : ");
 
-while (userNum !=gameNum){
-    userNum = prompt("You entered wrong number. Guess again : ");
-}
-console.log("congratulations, you entered the right number");
+// while (userNum !=gameNum){
+//     userNum = prompt("You entered wrong number. Guess again : ");
+// }
+// console.log("congratulations, you entered the right number");
+
+
+
+
+
+
+
+
+        //STRING
+        let str = "archana rao annu";
+        console.log(str[8]+ " " + str.length);
