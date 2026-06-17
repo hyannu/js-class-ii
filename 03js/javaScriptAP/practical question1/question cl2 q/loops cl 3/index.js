@@ -89,5 +89,12 @@ guessing the game number until the user enters correct value.*/
 
               //trim methods
 
-              let str ="          Archana rao js     ";
-              console.log(str.toUpperCase(),str.trim());
+              /*let str ="          Archana rao js     ";
+              console.log(str.toUpperCase(),str.trim());*/
+
+            //str.slice
+
+            // let str =" 01234567";
+            let str ="hello";
+            console.log(str.slice(0,4));
+
