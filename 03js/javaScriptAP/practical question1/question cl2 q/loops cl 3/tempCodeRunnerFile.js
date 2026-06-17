@@ -1,6 +1,5 @@
-let i = 100;
-// do{
-//     console.log("i= ",i);
-// }while(i >=1 && ){
-// console.log(i);
-// }
+
+        // //template literals
+        // let specialString = `This is a template literal`;
+        // // console.log(specialString);
+        // console.log(typeof specialString);

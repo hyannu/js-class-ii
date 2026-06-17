@@ -52,7 +52,21 @@ guessing the game number until the user enters correct value.*/
         // let str = "archana rao annu";
         // console.log(str[8]+ " " + str.length);
 
-        //template literals
-        let specialString = `This is a template literal`;
-        // console.log(specialString);
-        console.log(typeof specialString);
+
+let obj = {
+    item: "pen",
+    price:10,
+};
+let output =`the cost of ${obj.item} is ${obj.price} rupees`;
+// console.log("the cost of", obj.item,"is", obj.price, "rupees");
+console.log(output);
+
+
+
+
+
+
+        // //template literals
+        // let specialString = `This is a template literal`;
+        // // console.log(specialString);
+        // console.log(typeof specialString);
