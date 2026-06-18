@@ -107,4 +107,8 @@ guessing the game number until the user enters correct value.*/
             // let res = str1 + str2;
               let res ="my name is " + str1.concat(str2);
                console.log(res);*/
+
+
+               let text = "Hello World";
+              console.log(text.includes("World")); // true
              
