@@ -117,4 +117,7 @@ guessing the game number until the user enters correct value.*/
 // // ["apple", "banana", "mango"]
 
 
+         // indexOf() methods
 
+         let str = "banana";
+console.log(str.indexOf("a")); // 1
