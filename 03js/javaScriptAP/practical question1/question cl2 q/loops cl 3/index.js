@@ -125,5 +125,20 @@ guessing the game number until the user enters correct value.*/
 
 
 // chartAt()
-let str = "Hello";
-console.log(str.charAt(1)); // e
+/*let str = "Hello";
+console.log(str.charAt(1)); // e */
+
+//toLocaleUpperCase()
+//1.
+    /* let text = "hello world";
+
+console.log(text.toLocaleUpperCase());
+// HELLO WORLD */
+
+
+//2 example
+
+let str = "istanbul";
+
+console.log(str.toUpperCase());         // ISTANBUL
+console.log(str.toLocaleUpperCase("tr")); // İSTANBUL
