@@ -109,6 +109,9 @@ guessing the game number until the user enters correct value.*/
                console.log(res);*/
 
 
-               let text = "Hello World";
-              console.log(text.includes("World")); // true
+        //        let text = "Hello World";
+        //       console.log(text.includes("World")); // true
              
+          let text = "apple,banana,mango";
+         console.log(text.split(","));
+// ["apple", "banana", "mango"]
