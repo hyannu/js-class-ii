@@ -119,5 +119,11 @@ guessing the game number until the user enters correct value.*/
 
          // indexOf() methods
 
-         let str = "banana";
-console.log(str.indexOf("a")); // 1
+//          let str = "banana";
+// console.log(str.indexOf("a"));//1 //
+// 
+
+
+// chartAt()
+let str = "Hello";
+console.log(str.charAt(1)); // e
