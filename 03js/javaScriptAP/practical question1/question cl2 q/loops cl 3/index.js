@@ -146,10 +146,22 @@ console.log(text.toLocaleUpperCase());
 
    //replaceall methods
 
-const arr = ["apple", "banana", "apple"];
+// const arr = ["apple", "banana", "apple"];
 
-// Using map()
-const result = arr.map(item => item === "apple" ? "orange" : item);
+// // Using map()
+// const result = arr.map(item => item === "apple" ? "orange" : item);
 
-console.log(result);
-// ["orange", "banana", "orange"]
+// console.log(result);
+// // ["orange", "banana", "orange"]
+
+
+
+public class Main {
+    public static void main(String[] args) {
+        String text = "Hello";
+
+        char ch = text.charAt(1);
+
+        System.out.println(ch);
+    }
+}
