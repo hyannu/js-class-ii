@@ -138,7 +138,18 @@ console.log(text.toLocaleUpperCase());
 
 //2 example
 
-let str = "istanbul";
+// let str = "istanbul";
 
-console.log(str.toUpperCase());         // ISTANBUL
-console.log(str.toLocaleUpperCase("tr")); // İSTANBUL
+// console.log(str.toUpperCase());         // ISTANBUL
+// console.log(str.toLocaleUpperCase("tr")); // İSTANBUL
+
+
+   //replaceall methods
+
+const arr = ["apple", "banana", "apple"];
+
+// Using map()
+const result = arr.map(item => item === "apple" ? "orange" : item);
+
+console.log(result);
+// ["orange", "banana", "orange"]
