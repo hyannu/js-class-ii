@@ -168,6 +168,6 @@ console.log(text.toLocaleUpperCase());
 
     // STR METHODS
 
-    let str ="i loveJS";
+   /* let str ="i loveJS";
     str[0] ="S";
-    console.log(str[0]);
+    console.log(str); */
