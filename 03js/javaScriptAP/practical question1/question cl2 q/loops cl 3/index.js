@@ -174,3 +174,16 @@ console.log(text.toLocaleUpperCase());
 
    
 
+
+
+
+
+//  QUERSTION CL 3 
+/*Prompt the user to enter their full name. Generate a username for them based on the InputDeviceInfo.
+start username with @AbortController, follwed by their full name and ending with the fullname length.
+
+eg: user name="archanarao", username should be "@archana" */
+
+fullName = prompt("enter your fullname without spaces");
+let username ="@" + fullName;
+console.log(username);
