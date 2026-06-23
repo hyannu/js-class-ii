@@ -156,12 +156,12 @@ console.log(text.toLocaleUpperCase());
 
  //chartAt methods
 
-public class Main {
-    public static void main(String[] args) {
-        String text = "Hello";
+// public class Main {
+//     public static void main(String[] args) {
+//         String text = "Hello";
 
-        char ch = text.charAt(1);
+//         char ch = text.charAt(1);
 
-        System.out.println(ch);
-    }
-}
+//         System.out.println(ch);
+//     }
+// }
