@@ -171,3 +171,6 @@ console.log(text.toLocaleUpperCase());
    /* let str ="i loveJS";
     str[0] ="S";
     console.log(str); */
+
+   
+
