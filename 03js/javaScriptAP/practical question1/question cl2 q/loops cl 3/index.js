@@ -165,3 +165,9 @@ console.log(text.toLocaleUpperCase());
 //         System.out.println(ch);
 //     }
 // }
+
+    // STR METHODS
+
+    let str ="i loveJS";
+    str[0] ="S";
+    console.log(str[0]);
