@@ -189,14 +189,20 @@ let username ="@" + fullName;
 console.log(username); */
 
 
-const fullName = prompt("Enter your full name:");
+const readline = require("readline");
 
-if (fullName) {
+const rl = readline.createInterface({
+  input: process.stdin,
+  output: process.stdout
+});
+
+rl.question("Enter your full name: ", (fullName) => {
   const cleanedName = fullName.replace(/\s+/g, "").toLowerCase();
   const username = `@AbortController${cleanedName}${cleanedName.length}`;
 
-  console.log("Full Name:", fullName);
   console.log("Username:", username);
-}
+
+  rl.close();
+});
 
 
