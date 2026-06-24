@@ -184,6 +184,19 @@ start username with @AbortController, follwed by their full name and ending with
 
 eg: user name="archanarao", username should be "@archana" */
 
-fullName = prompt("enter your fullname without spaces");
+/*fullName = prompt("enter your fullname without spaces");
 let username ="@" + fullName;
-console.log(username);
+console.log(username); */
+
+
+const fullName = prompt("Enter your full name:");
+
+if (fullName) {
+  const cleanedName = fullName.replace(/\s+/g, "").toLowerCase();
+  const username = `@AbortController${cleanedName}${cleanedName.length}`;
+
+  console.log("Full Name:", fullName);
+  console.log("Username:", username);
+}
+
+
