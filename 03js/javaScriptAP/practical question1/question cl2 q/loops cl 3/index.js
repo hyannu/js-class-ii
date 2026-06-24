@@ -198,11 +198,16 @@ const rl = readline.createInterface({
 
 rl.question("Enter your full name: ", (fullName) => {
   const cleanedName = fullName.replace(/\s+/g, "").toLowerCase();
-  const username = `@AbortController${cleanedName}${cleanedName.length}`;
+  const username = `@archanarao${cleanedName}${cleanedName.length}`;
 
   console.log("Username:", username);
 
   rl.close();
 });
+
+
+
+
+
 
 
