@@ -1,6 +1,6 @@
 // Print all even numbers from 0 to 100.
 
-const { cacheSignal } = require("react");
+// const { cacheSignal } = require("react");
 
 
 // for(let num = 0; num<=100; num++){
@@ -245,6 +245,11 @@ console.log(username); */
 //   rl.close();
 // });
 
+
+/*let fullName = "Rahul Kumar";
+let username = "@" + fullName + fullName.length;
+
+console.log(username);*/
 
 
 
