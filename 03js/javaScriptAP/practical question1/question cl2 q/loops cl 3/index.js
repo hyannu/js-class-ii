@@ -166,6 +166,16 @@ console.log(text.toLocaleUpperCase());
 //     }
 // }
 
+// t
+
+
+
+
+
+
+
+
+
     // STR METHODS
 
    /* let str ="i loveJS";
