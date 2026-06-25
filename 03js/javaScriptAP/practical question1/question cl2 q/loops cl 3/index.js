@@ -182,7 +182,10 @@ let str =" 012345678";
 
  //  str1.concat(str2)//  joins str2 with str1
 
- 
+ let str1 ="archana rao";
+ let str = "annu";
+ let res =  "hello"  + 123;
+ console.log(res);
 
 
 
