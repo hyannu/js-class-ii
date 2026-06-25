@@ -175,7 +175,14 @@ console.log(str.trim()); */
 
 //str.slice(start,end?)//returns part of string
 
+/* let str ="hello archana rao"
+let str =" 012345678";
+// console.log(str.slice(start,end?))
+ console.log(str.slice(3,6)); */
 
+ //  str1.concat(str2)//  joins str2 with str1
+
+ 
 
 
 
