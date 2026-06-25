@@ -1,5 +1,7 @@
 // Print all even numbers from 0 to 100.
 
+const { cacheSignal } = require("react");
+
 
 // for(let num = 0; num<=100; num++){
 //     console.log("num = ", num);
@@ -182,11 +184,17 @@ let str =" 012345678";
 
  //  str1.concat(str2)//  joins str2 with str1
 
- let str1 ="archana rao";
+ /* let str1 ="archana rao";
  let str = "annu";
 //  let res =  "hello"  + 123;
 let res =str1 + str2;
- console.log(res);
+ console.log(res); */
+
+//replace method
+/*let str = "hello";
+console.log(str.replace("h" , "y"));
+// console.log(str.replace("lo", "a"));*/
+
 
 
 
