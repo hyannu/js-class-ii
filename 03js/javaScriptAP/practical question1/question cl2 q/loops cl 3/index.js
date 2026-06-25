@@ -184,7 +184,8 @@ let str =" 012345678";
 
  let str1 ="archana rao";
  let str = "annu";
- let res =  "hello"  + 123;
+//  let res =  "hello"  + 123;
+let res =str1 + str2;
  console.log(res);
 
 
