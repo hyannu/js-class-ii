@@ -166,7 +166,9 @@ console.log(text.toLocaleUpperCase());
 //     }
 // }
 
-// t
+// trim methods
+
+
 
 
 
@@ -199,21 +201,21 @@ let username ="@" + fullName;
 console.log(username); */
 
 
-const readline = require("readline");
+// const readline = require("readline");
 
-const rl = readline.createInterface({
-  input: process.stdin,
-  output: process.stdout
-});
+// const rl = readline.createInterface({
+//   input: process.stdin,
+//   output: process.stdout
+// });
 
-rl.question("Enter your full name: ", (fullName) => {
-  const cleanedName = fullName.replace(/\s+/g, "").toLowerCase();
-  const username = `@archanarao${cleanedName}${cleanedName.length}`;
+// rl.question("Enter your full name: ", (fullName) => {
+//   const cleanedName = fullName.replace(/\s+/g, "").toLowerCase();
+//   const username = `@archanarao${cleanedName}${cleanedName.length}`;
 
-  console.log("Username:", username);
+//   console.log("Username:", username);
 
-  rl.close();
-});
+//   rl.close();
+// });
 
 
 
