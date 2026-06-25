@@ -168,11 +168,12 @@ console.log(text.toLocaleUpperCase());
 
 // trim methods
 
-let str ="     archana    rao         ";
+/*let str ="     archana    rao         ";
 // console.log(str.trim());
-console.log(str.trim());
+console.log(str.trim()); */
 
 
+//str.slice(start,end?)//returns part of string
 
 
 
