@@ -12,6 +12,6 @@ console.log(heroes.length);*/
 console.log(marks);
 console.log(marks.length);*/
 
-
+//looping over an array
 
      
