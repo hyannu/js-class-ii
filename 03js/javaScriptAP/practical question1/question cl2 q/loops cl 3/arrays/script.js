@@ -127,7 +127,9 @@ console.log(marks.length);*/
 
                   /* let marvelHeroes = ["thor","spiderman","ironman"];
                    let val = marvelHeroes.shift();
-                    console.log("deleted", val); */           
+                    console.log("deleted", val); */   
+                    
+                    // slice method in array
 
 
                  
