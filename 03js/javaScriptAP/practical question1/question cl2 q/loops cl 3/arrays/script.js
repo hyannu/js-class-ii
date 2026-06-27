@@ -168,7 +168,8 @@ console.log(marks.length);*/
 
                     //[C] add amazon at the end
                     let companies =["boomberg","microsoft","uber","google","ibm","netflix"];
-                    
+                    companies.push("Amazon");
+                    console.log(companies);
 
 
                  
