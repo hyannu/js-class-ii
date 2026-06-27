@@ -2,7 +2,7 @@
 // let marks_student1 =  97;
 // let marks_student2 =
 
-const { cacheSignal } = require("react");
+
 
 /*let heroes = ["ironman", "hulk", "thor","batman",""];
 console.log(heroes);
@@ -65,8 +65,8 @@ console.log(marks.length);*/
                  all items have an offer of 10% off on them.change the array to store 
                  final price after applying offer.*/
 
-                 let items = [250,645,300,900,50];
-                 let i=0;
+                 /*let items = [250,645,300,900,50];
+                 let i = 0;
                  for(let val of items){
                     // console.log(`value at index ${i} = ${val}`);
                     let offer = val / 10;
@@ -74,7 +74,14 @@ console.log(marks.length);*/
                     console.log(`value after offer = ${items[i]}`);
                     i++;
 
-                 }
+                 }*/
+                //second rule
+                let items = [250,645,300,900,50];
+                for(let i = 0; i < items.length; i++) {
+                    let offer = items[i] / 10;
+                    items[i] -= offer;
+                } 
+                console.log(items);
 
                  
             
