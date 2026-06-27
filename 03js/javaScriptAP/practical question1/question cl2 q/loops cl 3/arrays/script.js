@@ -153,8 +153,16 @@ console.log(marks.length);*/
 
                     //QUESTION 
 
+                   /* let companies =["boomberg","microsoft","uber","google","ibm","netflix"];
+                    [A]//remove the  first company from the array
+                    companies.splice(0 ,1);
+                    console.log(companies);*/
+
+
+                    //[B] remove uber & add ola in its place
                     let companies =["boomberg","microsoft","uber","google","ibm","netflix"];
-                    //remove the  first company from the array
+                    companies.splice(2,1,Ola);
+                    console.log(companies);
 
 
                  
