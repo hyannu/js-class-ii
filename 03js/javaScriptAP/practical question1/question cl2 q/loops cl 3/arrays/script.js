@@ -130,6 +130,9 @@ console.log(marks.length);*/
                     console.log("deleted", val); */   
                     
                     // slice method in array
+                    let heroes =["thor","spiderman","ironman","antman"];
+                    console.log(heroes);
+                    console.log(heroes.slice(1,3));
 
 
                  
