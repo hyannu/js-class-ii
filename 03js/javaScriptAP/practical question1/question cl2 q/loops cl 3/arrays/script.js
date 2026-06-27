@@ -130,9 +130,23 @@ console.log(marks.length);*/
                     console.log("deleted", val); */   
                     
                     // slice method in array
-                    let heroes =["thor","spiderman","ironman","antman"];
+                     /*let heroes =["thor","spiderman","ironman","antman"];
                     console.log(heroes);
-                    console.log(heroes.slice(1,3));
+                    console.log(heroes.slice(1,3));*/
+
+
+
+                    //splice method
+
+                    let arr =[1,2,3,4,5,6,7];
+                    // arr.splice(2, 2, 303, 304);
+                    //add element
+                    // arr.splice(2,0,101);
+
+                    //delete element
+                    arr.splice(3,1);
+
+                    console.log(arr);
 
 
                  
