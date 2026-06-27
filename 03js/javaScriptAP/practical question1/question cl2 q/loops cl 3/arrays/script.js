@@ -101,9 +101,9 @@ console.log(marks.length);*/
 
 
                  //string methods
-                 let foodItems =["potato","apple","litchi","tomato"];
+                /* let foodItems =["potato","apple","litchi","tomato"];
                  console.log(foodItems);
-                 console.log(foodItems.toString());
+                 console.log(foodItems.toString());*/
                
                 
 
