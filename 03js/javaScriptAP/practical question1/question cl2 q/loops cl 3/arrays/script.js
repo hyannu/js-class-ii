@@ -138,7 +138,7 @@ console.log(marks.length);*/
 
                     //splice method
 
-                    let arr =[1,2,3,4,5,6,7];
+                   /* let arr =[1,2,3,4,5,6,7];
                     // arr.splice(2, 2, 303, 304);
                     //add element
                     // arr.splice(2,0,101);
@@ -147,7 +147,14 @@ console.log(marks.length);*/
                     // arr.splice(3,1);
                     arr.splice(4);
 
-                    console.log(arr);
+                    console.log(arr);*/
+
+
+
+                    //QUESTION 
+
+                    let companies =["boomberg","microsoft","uber","google","ibm","netflix"];
+                    
 
 
                  
