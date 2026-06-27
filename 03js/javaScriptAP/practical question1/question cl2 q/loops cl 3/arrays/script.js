@@ -86,9 +86,21 @@ console.log(marks.length);*/
 
 
                 //ARRAY METHODS
+                /* let foodItems =["potato","apple","litchi","tomato"];
+                 foodItems.push("chips","banana","panne");
+                 console.log(foodItems);*/
+
+                //  pop methods
+                
                 let foodItems =["potato","apple","litchi","tomato"];
-                foodItems.push("chips","banana","panne");
-                console.log(foodItems);
+                 console.log(foodItems);
+                 let deletedItem = foodItems.pop();
+                
+                 console.log(foodItems);
+                 console.log("deleted",deletedItem);
+               
+                
+
 
                  
             
