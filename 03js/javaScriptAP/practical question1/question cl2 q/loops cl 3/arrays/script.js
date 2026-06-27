@@ -125,9 +125,9 @@ console.log(marks.length);*/
 
                    //shift method
 
-                   let marvelHeroes = ["thor","spiderman","ironman"];
+                  /* let marvelHeroes = ["thor","spiderman","ironman"];
                    let val = marvelHeroes.shift();
-                    console.log("deleted", val);            
+                    console.log("deleted", val); */           
 
 
                  
