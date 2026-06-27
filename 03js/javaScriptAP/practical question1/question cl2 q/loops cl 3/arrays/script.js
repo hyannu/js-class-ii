@@ -30,8 +30,24 @@ console.log(marks.length);*/
 
             // example2 for of loop
 
-            let cities = ["delhi", "gopalganj", "pune","hydrabad"];
+            /*let cities = ["delhi", "gopalganj", "pune","hydrabad"];
             for(let city of cities){
-                console.log(city);
+                // console.log(city);
                 console.log(city.toUpperCase());
-            }
+            }*/
+
+
+
+
+
+                //PRACTICE QUESTION LEC 4 ARRAY
+
+                /* for a given array with marks of students->[85,97,44,37,76,60]
+                find the average marks of the entire class.*/
+
+                 let marks=[85,97,44,37,76,60];
+                // marks=85+97+44+37+76+60;
+                 let sum = 0;
+                 sum =marks
+                 console.log(sum);
+                 
