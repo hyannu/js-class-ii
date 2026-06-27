@@ -83,5 +83,12 @@ console.log(marks.length);*/
                 } 
                 console.log(items);*/
 
+
+
+                //ARRAY METHODS
+                let foodItems =["potato","apple","litchi","tomato"];
+                foodItems.push("chips","banana","panne");
+                console.log(foodItems);
+
                  
             
