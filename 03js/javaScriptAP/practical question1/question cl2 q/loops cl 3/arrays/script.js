@@ -23,3 +23,15 @@ console.log(marks.length);*/
      }*/
 
         //for of loop
+      /*  let heroes = ["ironman", "hulk", "thor","batman","vijaythalapati"];
+        for(let hero of heroes) {
+            console.log(hero);
+        }*/
+
+            // example2 for of loop
+
+            let cities = ["delhi", "gopalganj", "pune","hydrabad"];
+            for(let city of cities){
+                console.log(city);
+                console.log(city.toUpperCase());
+            }
