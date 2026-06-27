@@ -109,14 +109,25 @@ console.log(marks.length);*/
 
                  //concat() method in array
 
-                 let marvelHeroes = ["thor","spiderman","ironman"];
+                /* let marvelHeroes = ["thor","spiderman","ironman"];
                  let dcHeroes =["superman","batman"];
                  let indianHeroes= ["saktiman","ladakubiman"];
                 //  multiple array added
                  let heroes = marvelHeroes.concat(dcHeroes, indianHeroes);//dcHeroes ko last me add krne ke lie use
                 //  let heroes = dcHeroes.concat(marvelHeroes);  //dcHeroes  ko first me add krne ke lie use
-                 console.log(heroes);
-                
+                 console.log(heroes);*/
+
+                 //unshift method
+
+                  /*let marvelHeroes = ["thor","spiderman","ironman"];
+                   marvelHeroes.unshift("antman");
+                   console.log(marvelHeroes);*/
+
+                   //shift method
+
+                   let marvelHeroes = ["thor","spiderman","ironman"];
+                   let val = marvelHeroes.shift();
+                    console.log("deleted", val);            
 
 
                  
