@@ -154,7 +154,7 @@ console.log(marks.length);*/
                     //QUESTION 
 
                     let companies =["boomberg","microsoft","uber","google","ibm","netflix"];
-                    
+                    //remove the  first company from the array
 
 
                  
