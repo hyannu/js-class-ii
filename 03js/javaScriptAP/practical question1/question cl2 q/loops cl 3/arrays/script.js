@@ -144,7 +144,8 @@ console.log(marks.length);*/
                     // arr.splice(2,0,101);
 
                     //delete element
-                    arr.splice(3,1);
+                    // arr.splice(3,1);
+                    arr.splice(4);
 
                     console.log(arr);
 
