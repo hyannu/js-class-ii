@@ -155,14 +155,20 @@ console.log(marks.length);*/
 
                    /* let companies =["boomberg","microsoft","uber","google","ibm","netflix"];
                     [A]//remove the  first company from the array
-                    companies.splice(0 ,1);
+                    companies.splice(0 ,1);//ya
+                    //companies.shift();
                     console.log(companies);*/
 
 
                     //[B] remove uber & add ola in its place
+                    /*let companies =["boomberg","microsoft","uber","google","ibm","netflix"];
+                    companies.splice(2, 1, "Ola");
+                    console.log(companies);*/
+
+
+                    //[C] add amazon at the end
                     let companies =["boomberg","microsoft","uber","google","ibm","netflix"];
-                    companies.splice(2,1,Ola);
-                    console.log(companies);
+                    
 
 
                  
