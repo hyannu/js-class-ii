@@ -13,11 +13,13 @@ console.log(marks);
 console.log(marks.length);*/
 
 //looping over an array
+//for loop
 
-let heroes = ["ironman", "hulk", "thor","batman","vijaythalapati"];
+/*let heroes = ["ironman", "hulk", "thor","batman","vijaythalapati"];
      for(let idx = 0; idx < heroes.length; idx++){//good
         console.log(heroes[idx]);
     //   for(let idx = 1; idx <= heroes.length; idx++){//not good
         // console.log(heroes[idx - 1]);
+     }*/
 
-     }
+        //for of loop
