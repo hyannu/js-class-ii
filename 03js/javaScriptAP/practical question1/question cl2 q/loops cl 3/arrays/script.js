@@ -45,9 +45,14 @@ console.log(marks.length);*/
                 /* for a given array with marks of students->[85,97,44,37,76,60]
                 find the average marks of the entire class.*/
 
-                 let marks=[85,97,44,37,76,60];
-                // marks=85+97+44+37+76+60;
+                 /*let marks=[85,97,44,37,76,60];
                  let sum = 0;
-                 sum =marks
-                 console.log(sum);
+                //  sum =(marks[0] + marks[1] + marks[2] + marks[3] + marks[4] + marks[5])/6;
+                for (let val of marks){
+                    // sum = sum+val;
+                    sum+=val;
+                }
+                let avg = sum/marks.length;
+                 console.log(`avg marks of the class = ${avg}`);*/
+                 
                  
