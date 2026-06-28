@@ -134,5 +134,9 @@ countVow("educations");*/
 
 
 // forEach loop in arrays
+let fruits = ["Apple", "Banana", "Mango"];
 
+fruits.forEach(function(fruit) {
+    console.log(fruit);
+});
 
