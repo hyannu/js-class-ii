@@ -133,3 +133,6 @@ countVowels("bdrty");*/
 countVow("educations");*/
 
 
+// forEach loop in arrays
+
+
