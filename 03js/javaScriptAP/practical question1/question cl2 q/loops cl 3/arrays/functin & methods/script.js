@@ -87,3 +87,9 @@ console.log(arrowMul(5,6 ));*/
 that takes a string as an argument & return the 
 number of vowels in the string.*/
 
+function countVowels(str){
+    for (const char of str){
+        console.log(char);
+    }
+}
+countVowels("apnacollege");
