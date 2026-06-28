@@ -76,3 +76,14 @@ console.log(const arrowMul);
 sum(2,5);
 console.log(mul(45,5));
 console.log(arrowMul(5,6 ));*/
+
+
+
+
+
+
+//PRACTICE QUESTION
+/*Create a function using the "function" keyword 
+that takes a string as an argument & return the 
+number of vowels in the string.*/
+
