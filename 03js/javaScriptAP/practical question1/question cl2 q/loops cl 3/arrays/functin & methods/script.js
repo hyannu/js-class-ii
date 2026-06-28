@@ -158,9 +158,17 @@ numbers.forEach((value, index) => {
 
 
 //forEach callBack function
-let arr = [100, 200, 300];
+/*let arr = [100, 200, 300];
 
 arr.forEach((element, index, array) => {
-    console.log(element, index, array);
-});
+    // console.log(element, index, array);
+    
+    console.log(element); // Current value
+    console.log(index);   // Current index
+    console.log(array);   // Original array
+});*/
+
+
+
+
 
