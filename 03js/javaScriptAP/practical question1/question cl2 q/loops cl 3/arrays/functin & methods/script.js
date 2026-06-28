@@ -47,7 +47,7 @@ console.log(val);*/
 
 
 
-//Arrowsum function
+/*//Arrowsum function
 function sum(a,b) {
     console.log(a+b);
 };
@@ -57,4 +57,4 @@ function mul(a,b){
     return a*b;
 }
 sum(23,45);
-console.log(mul(3,9));
+console.log(mul(3,9));*/
