@@ -156,3 +156,11 @@ numbers.forEach((value, index) => {
     console.log(index, value);
 }); */
 
+
+//forEach callBack function
+let arr = [100, 200, 300];
+
+arr.forEach((element, index, array) => {
+    console.log(element, index, array);
+});
+
