@@ -170,5 +170,22 @@ arr.forEach((element, index, array) => {
 
 
 
+//        QUESTION PRACTICE
+/*for a given array of number, 
+print the square of each alue using the forEach loop.*/
+
+/*let num =[123,34,4,5];
+num.forEach((num) =>{
+    console.log(num*num);//ya num**2 use kr skte hai
+}); */
+
+
+// callBack function
+/*let arrs =[55,45,57];
+let calcSquare = (num)=>{
+    console.log(num*num);
+};
+arrs.forEach(calcSquare);*/
+
 
 
