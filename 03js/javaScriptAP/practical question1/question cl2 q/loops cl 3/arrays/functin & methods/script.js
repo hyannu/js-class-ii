@@ -134,9 +134,25 @@ countVow("educations");*/
 
 
 // forEach loop in arrays
-let fruits = ["Apple", "Banana", "Mango"];
+
+/*let fruits = ["Apple", "Banana", "Mango"];
 
 fruits.forEach(function(fruit) {
-    console.log(fruit);
+    console.log(fruit.toUppercase());
+});*/
+
+
+//arrow function use in forEach loop
+// example1
+/*let arr =[1,2,3,4,5,6,7,8,2];
+arr.forEach((val) => {
+    console.log(val);
 });
+
+// example2
+let numbers = [10, 20, 30];
+
+numbers.forEach((value, index) => {
+    console.log(index, value);
+}); */
 
