@@ -37,10 +37,24 @@ sum(8,60); */
 
 // [2]
 
-function sum(x,y){
+/*function sum(x,y){
     //local variable -> scope
    let s= x+y;
     return s;
 }
 let val = sum(3,4);
-console.log(val);
+console.log(val);*/
+
+
+
+//Arrowsum function
+function sum(a,b) {
+    console.log(a+b);
+};
+//multiplication function
+
+function mul(a,b){
+    return a*b;
+}
+sum(23,45);
+console.log(mul(3,9));
