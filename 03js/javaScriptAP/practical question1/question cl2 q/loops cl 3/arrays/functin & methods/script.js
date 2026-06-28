@@ -116,5 +116,20 @@ countVowels("bdrty");*/
 //question [2]
 
 // create an arrow function to perform the same Task.
+ /*const countVow=(str) => {
+    let count = 0;
+     for(const char of str){
+        if (char === "a" || 
+            char === "e" || 
+            char === "i" || 
+            char === "o" ||  
+            char === "u") 
+            {   
+           count++;
+        }
+    }
+    console.log(count);
+}
+countVow("educations");*/
 
 
