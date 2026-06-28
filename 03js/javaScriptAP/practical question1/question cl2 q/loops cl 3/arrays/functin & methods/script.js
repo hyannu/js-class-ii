@@ -58,3 +58,21 @@ function mul(a,b){
 }
 sum(23,45);
 console.log(mul(3,9));*/
+
+//arrow multiplication function
+
+/*function sum(a,b) {
+    console.log(a+b);
+};
+//multiplication function
+
+function mul(a,b){
+    return a*b;
+}
+const arrowMul = (a,b) =>{
+    return a*b;
+};
+console.log(const arrowMul);
+sum(2,5);
+console.log(mul(45,5));
+console.log(arrowMul(5,6 ));*/
