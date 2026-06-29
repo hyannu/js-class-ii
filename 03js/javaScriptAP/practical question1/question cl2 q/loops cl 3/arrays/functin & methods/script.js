@@ -199,7 +199,7 @@ let calcSquare= (num) => {
     console.log(num*num);
 };*/
 
-let nums = [67,52,39];
+/*let nums = [67,52,39];
 
 let newArr = nums.map((val) => {
     // return val*val;
@@ -212,7 +212,16 @@ let calcSquare=(num)=> {
     // console.log(num*num);
     console.log(num);
 };
+*/
 
+//filter method
+//even number findout
+let arr=[1,2,3,4,5,6,7];
+
+let evenArr = arr.filter((val)=> {
+    return val % 2===0;
+});
+console.log(evenArr);
 
 
 
