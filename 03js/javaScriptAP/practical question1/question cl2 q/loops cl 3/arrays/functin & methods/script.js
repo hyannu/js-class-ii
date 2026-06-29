@@ -188,4 +188,33 @@ let calcSquare = (num)=>{
 arrs.forEach(calcSquare);*/
 
 
+//map method in array
+
+/*let nums = [45,54,34,43,98];
+nums.map((val) => {
+console.log(val);
+});
+
+let calcSquare= (num) => {
+    console.log(num*num);
+};*/
+
+let nums = [67,52,39];
+
+let newArr = nums.map((val) => {
+    // return val*val;
+    return val*2;
+});
+
+console.log(newArr);
+
+let calcSquare=(num)=> {
+    // console.log(num*num);
+    console.log(num);
+};
+
+
+
+
+
 
