@@ -251,4 +251,14 @@ const sum = numbers.reduce((acc, curr) => {
   return acc + curr;
 }, 0);
 
-console.log(sum); // 150 */      
+console.log(sum); // 150 */
+
+
+            //    product of array elements
+/*const numbers = [2, 3, 4];
+
+const product = numbers.reduce((acc, curr) => {
+  return acc * curr;
+}, 1);
+
+console.log(product); // 24*/
