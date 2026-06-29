@@ -262,3 +262,15 @@ const product = numbers.reduce((acc, curr) => {
 }, 1);
 
 console.log(product); // 24*/
+
+        //   Find Maximum Number
+/*const numbers = [12, 45, 78, 25, 90];
+
+const max = numbers.reduce((acc, curr) => {
+  return curr > acc ? curr : acc;
+});
+
+console.log(max); // 90 */
+
+
+            //Find Minimum Number
