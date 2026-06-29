@@ -244,4 +244,11 @@ console.log(evenArr);*/
 
        //Reduce method
     
+        //Sum of Array
+ const numbers = [10, 20, 30, 40, 50];
 
+const sum = numbers.reduce((acc, curr) => {
+  return acc + curr;
+}, 0);
+
+console.log(sum); // 150       
