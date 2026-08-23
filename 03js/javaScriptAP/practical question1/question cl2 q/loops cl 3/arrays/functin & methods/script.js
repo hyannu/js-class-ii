@@ -275,10 +275,10 @@ console.log(max); // 90 */
 
             //Find Minimum Number
 
-const numbers = [12, 45, 78, 25, 90];
+/*const numbers = [12, 45, 78, 25, 90];
 
 const min = numbers.reduce((acc, curr) => {
   return curr < acc ? curr : acc;
 });
 
-console.log(min); // 12
+console.log(min); // 12*/

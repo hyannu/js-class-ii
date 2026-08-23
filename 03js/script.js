@@ -41,6 +41,7 @@ let rectangle = {
 //   },
 // };
 // console.log(collage.vishalguru.address.new);
+//  "Create rectangle factory function"
 
 function createRectangle(){
   return rectangle= {
